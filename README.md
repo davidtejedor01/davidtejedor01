@@ -8,7 +8,7 @@
 
 
   <div class="col-12 col-md-6">
-    <p><b>💻 Soy estudiante Técnico en Programación, actualmente finalizando la tecnictura. Estoy ampliando mis conocimientos tanto en el desarrollo front-end como el back-end. Me gusta aprender y crear cosas nuevas, innovadoras y funcionales.</b></p>
+    <p><b>💻 Soy estudiante Técnico en Programación, actualmente finalizando la tecnicatura. Estoy ampliando mis conocimientos tanto en el desarrollo front-end como el back-end. Me gusta aprender y crear cosas nuevas, innovadoras y funcionales.</b></p>
     <p>🚀 Me encanta el desarrollo de software, tanto en diseño web como en aplicaciones móviles y de escritorio y estoy interesado en perfeccionar mis habilidades y aportar valor en cada proyecto que participo.</p>
     <ul>
       <li>🤝 Disfruto de trabajar en equipo, aprender de otros y compartir conocimientos.</li>
